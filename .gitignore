@@ -105,4 +105,7 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Aplication Uploads
+.uploads/
 >>>>>>> 97fe34e1a3e1efbccb76cd1d73c5a27bba692038
